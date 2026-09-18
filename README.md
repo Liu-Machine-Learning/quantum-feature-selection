@@ -1,4 +1,4 @@
-# quantum-feature-selection
+# Quantum Feature Selection
 Code and datasets for our paper “Quantum Feature Selection for Biomedical Data Analysis”
 
 ## Recreate the QFS Python Environment
